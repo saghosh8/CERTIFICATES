@@ -3,14 +3,14 @@
 
 ## Udemy
 
-1. **Automation with Ansible Playbooks Hands-On**
-   ![Certificate](https://github.com/saghosh8/CERTIFICATES/blob/main/Automation%20with%20Ansible%20Playbooks.jpg)
+1.  **Google Cloud Professional DevOps Certification**
+   ![Certificate](https://github.com/saghosh8/CERTIFICATES/blob/main/Google%20Cloud%20Professional%20Cloud%20DevOps%20Engineer%20Certification.jpg)
 
 2. **Ansible for the Absolute Beginners Hands On**
    ![Certificate](https://github.com/saghosh8/CERTIFICATES/blob/main/Ansible%20for%20the%20Absolute%20Beginners%20Hands%20On.jpg)
 
-3. **Google Cloud Professional DevOps Certification**
-   ![Certificate](https://github.com/saghosh8/CERTIFICATES/blob/main/Google%20Cloud%20Professional%20Cloud%20DevOps%20Engineer%20Certification.jpg)
+3. **Automation with Ansible Playbooks Hands-On**
+   ![Certificate](https://github.com/saghosh8/CERTIFICATES/blob/main/Automation%20with%20Ansible%20Playbooks.jpg)
 
 ## PluralSight
 
