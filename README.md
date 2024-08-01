@@ -31,6 +31,6 @@ Click on the certificate images above to view them in full size. If you have any
 ## Contact
 
 - **Email:** sahanaghosh8@gmail.com
-- **LinkedIn:** https://www.linkedin.com/in/ghoshsahana/
-- **GitHub:** https://github.com/saghosh8/
+- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/ghoshsahana/)
+- **GitHub:** [Your GitHub Profile](https://github.com/saghosh8/)
 
